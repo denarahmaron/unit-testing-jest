@@ -1,0 +1,15 @@
+{
+  "name": "latihan-unittest",
+  "version": "1.0.0",
+  "description": "belajar-unit-testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "denarahmaron",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
